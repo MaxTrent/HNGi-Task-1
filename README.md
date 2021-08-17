@@ -1,3 +1,6 @@
+![hng](https://user-images.githubusercontent.com/83916293/129813606-6192ef34-6084-40d0-bdeb-56c71bd1f8d7.png)
+![i4g](https://user-images.githubusercontent.com/83916293/129813608-6b1f3099-396a-4f23-9008-ed6dae341477.png)
+![zuri](https://user-images.githubusercontent.com/83916293/129813613-a12df909-eaa4-4ca5-82ac-8cb635d63f09.png)
 ![My App Display](https://user-images.githubusercontent.com/83916293/129813391-8d019052-5af8-4f03-a2b1-9625865d3808.gif)
 # input_display
 
