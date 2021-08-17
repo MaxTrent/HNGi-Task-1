@@ -1,3 +1,4 @@
+![My App Display](https://user-images.githubusercontent.com/83916293/129813391-8d019052-5af8-4f03-a2b1-9625865d3808.gif)
 # input_display
 
 A new Flutter project.
